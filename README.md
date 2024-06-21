@@ -1,3 +1,4 @@
+![Screenshot (275)](https://github.com/Powerlearnproject/SE-Assignment-5/assets/91537176/12dd39a5-4cb4-400c-802d-97f66238399f)
 # SE-Assignment-5
 Installation and Navigation of Visual Studio Code (VS Code)
  Instructions:
